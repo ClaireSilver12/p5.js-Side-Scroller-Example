@@ -1,0 +1,14 @@
+{
+  "name": "p5.js-Side-Scroller-Example",
+  "author": "Claire Silver",
+  "version": "0.1.0",
+  "description": "Just a starting base of GPT4 code for a side scroller in p5.js",
+  "scripts": {
+    "start": "web-dev-server --app-index index.html --node-resolve --open --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@open-wc/building-rollup": "^2.2.2",
+    "@web/dev-server": "^0.1.35"
+  }
+}
